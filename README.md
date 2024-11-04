@@ -1,4 +1,5 @@
 [🇷🇺 Русский](https://github.com/MushroomMif/example-aoh3-fabric-mod/blob/master/README_RU.md)
+-----
 Example mod for Age of History 3 Fabric Loader
 ============
 This is an example mod for the [AOH3 Fabric Loader](https://github.com/MushroomMif/aoh3-fabric-loader).
