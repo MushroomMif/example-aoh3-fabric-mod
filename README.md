@@ -10,11 +10,15 @@ Here are the steps to set it up:
 - Create a `libs` directory there.
 - Download [this archive](https://disk.yandex.ru/d/eTRhqz-oJE8lpQ) and unzip it's content
 to previously created `libs` directory.
-- Add loader's jar and game's jar renamed to `aoh3.jar` to the same directory. 
-On Windows the game jar is just the `aoh3.exe` in the game directory and on Mac it is
-`Age of History 3.app/Contents/MacOS/Age of History 3-*Version*.jar`. 
-Don't forget to rename it to `aoh3.jar` in either case. 
-If there is a new game update out you need to repeat this step.
+- Add Fabric Loader's jar to this directory
+- If you are using Windows:
+    - Just copy `aoh3.jar` file from game directory to your `libs` directory
+
+  If you are using Mac:
+    - Go to the game directory, copy `Age of History 3.app/Contents/MacOS/Age of History 3-*Version*.jar`
+      file to your `libs` directory **ahd rename it to** `aoh3.jar`
+
+  When a new game update is out you will need to repeat this step.
 - Download `aoh3-fabric-api.jar` and `aoh3-fabric-api-sources.jar` from 
 [a latest AOH3 Fabric Api release](https://github.com/MushroomMif/aoh3-fabric-api/releases/latest)
 and also put them to the `libs` directory. Technically, this is not necessary, but
