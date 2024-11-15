@@ -5,7 +5,7 @@ plugins {
 dependencies {
     compileOnly(files("../libs/aoh3.jar"))
     compileOnly(files("../libs/aoh3-fabric-api.jar"))
-    compileOnly(files("../libs/fabric-loader-0.16.7-fat.jar"))
+    compileOnly(files("../libs/fabric-loader-0.16.8-fat.jar"))
     compileOnly(files("../libs/gson-2.11.0.jar"))
     compileOnly(files("../libs/guava-21.0.jar"))
     compileOnly(files("../libs/mixinextras-fabric-0.4.1.jar"))
